@@ -12,7 +12,7 @@ def add_student(name, age):
     }
 
     students.append(student)
-    print(f"Student {name} added successfully.")
+    print(f"Student {name} was added successfully.")
 
 
 add_student("Ahmed", 21)
